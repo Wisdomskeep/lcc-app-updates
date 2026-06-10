@@ -1,0 +1,8 @@
+{
+  "finance": {
+    "version": "1.0.0",
+    "apkUrl": "https://github.com/Wisdomskeep/lcc-app-updates/releases/latest/download/Finance-Command.apk",
+    "notes": "Initial release - Company + Personal finance dashboard",
+    "mandatory": false
+  }
+}
