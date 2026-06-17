@@ -1,8 +1,8 @@
 {
   "finance": {
-    "version": "1.0.6",
-    "apkUrl": "https://github.com/Wisdomskeep/lcc-app-updates/raw/main/finance/Finance-Command.apk",
-    "notes": "Business trackers (cash runway, client mix, days-to-get-paid), dedicated VoIP tab, mobile layout fix, 6 personal trackers. Keyless secure build.",
+    "version": "1.0.7",
+    "apkUrl": "https://github.com/Wisdomskeep/lcc-app-updates/releases/latest/download/Finance-Command.apk",
+    "notes": "Fixed the in-app Download APK button (now opens system browser/Custom Tab so it actually downloads). Plus business trackers + VoIP tab.",
     "mandatory": false
   }
 }
